@@ -18,7 +18,7 @@ namespace Sandbox
         }
         static void Main(string[] args)
         {
-            bil Ford = new bil("Mustang", "røøød", 1984); ;
+            bil Ford = new bil("Mustang", "den er blå igen", 1984); ;
             
         }
     }
