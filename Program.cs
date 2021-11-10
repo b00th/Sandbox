@@ -18,9 +18,7 @@ namespace Sandbox
         }
         static void Main(string[] args)
         {
-            bil Ford = new bil("Mustang", "blå", 1984); ;
-
-            Console.WriteLine("dette er en ændring af kode");
+            bil Ford = new bil("Mustang", "røøød", 1984); ;
             
         }
     }
