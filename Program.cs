@@ -19,6 +19,8 @@ namespace Sandbox
         static void Main(string[] args)
         {
             bil Ford = new bil("Mustang", "røøød", 1984); ;
+
+            Dissing Mathias = new Dissing("God", "hvid", "1991");
             
         }
     }
