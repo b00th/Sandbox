@@ -21,7 +21,7 @@ namespace Sandbox
 
             bil Ford = new bil("Mustang", "røøød", 1984); ;
             bil BMW = new bil("M4", "Flaske Grøn", 2021);
-            bil Ford1 = new bil("Mustang", "den er blå igen....", 1984); ;
+            bil Ford1 = new bil("Mustang", "den er blå igen.....", 1984); ;
 
             Dissing Mathias = new Dissing("God", "hvid", "1991");
         }
